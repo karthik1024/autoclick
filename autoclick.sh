@@ -30,7 +30,7 @@ MOVING_CHECK_INTERVAL=0.2
 
 # The minimum distance^2 mouse needs to move to go from
 # IDLE to MOVING state and also from MOVING to DOCLICK state
-THRESHOLD=25
+THRESHOLD=100
 
 # Left mouse buttom
 LEFTBUTTON=1
